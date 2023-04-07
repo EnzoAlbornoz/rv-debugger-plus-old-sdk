@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "bl702_glb.h": "c",
+        "hal_gpio.h": "c",
+        "bl702_usb.h": "c"
+    }
+}
